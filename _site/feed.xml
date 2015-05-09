@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>BiBi</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com//</link>
-    <atom:link href="http://yourdomain.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 09 May 2015 09:22:31 +0800</pubDate>
-    <lastBuildDate>Sat, 09 May 2015 09:22:31 +0800</lastBuildDate>
+    <link>http://yourdomain.com/blog/</link>
+    <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 09 May 2015 09:38:00 +0800</pubDate>
+    <lastBuildDate>Sat, 09 May 2015 09:38:00 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 09 May 2015 16:49:06 +0800</pubDate>
-        <link>http://yourdomain.com//jekyll/update/2015/05/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com//jekyll/update/2015/05/09/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/blog/jekyll/update/2015/05/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/jekyll/update/2015/05/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -43,8 +43,8 @@
         <description>&lt;p&gt;Ok, it spends me several hours to build this static blog and hope I will use it in following years. Two things to do in following months. First, finish the “Let over lambda”. Second use Common Lisp to re-develop LLVM. First target I may have a little clue how to finsh it. Second one? em.. hope I can hold my promise and I will create a git repository to trace the process.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 May 2015 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com//2015/05/09/what_to_do.html</link>
-        <guid isPermaLink="true">http://yourdomain.com//2015/05/09/what_to_do.html</guid>
+        <link>http://yourdomain.com/blog/2015/05/09/what_to_do.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/05/09/what_to_do.html</guid>
         
         
       </item>
@@ -54,8 +54,8 @@
         <description>&lt;p&gt;hello world!&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 May 2015 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com//2015/05/09/hello.html</link>
-        <guid isPermaLink="true">http://yourdomain.com//2015/05/09/hello.html</guid>
+        <link>http://yourdomain.com/blog/2015/05/09/hello.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/05/09/hello.html</guid>
         
         
       </item>
