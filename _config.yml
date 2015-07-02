@@ -5,7 +5,7 @@ description: Blog site of Neo Shen
 baseurl: /blog
 encoding: utf-8
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: shenkeNeo
+twitter_username: zy02636
 github_username:  zy02636
 
 # Build settings
