@@ -6,9 +6,53 @@
 </description>
     <link>http://yourdomain.com/blog/</link>
     <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 May 2015 10:12:00 +0800</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 10:12:00 +0800</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2015 12:11:00 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2015 12:11:00 +0800</lastBuildDate>
     <generator>Jekyll v1.4.2</generator>
+    
+      <item>
+        <title>Long time no see, my dear blog site.</title>
+        <description>&lt;p&gt;It has been a while since my last post. Heavy working schdule has debilitated my writing interest and now I’m back. Today’s topic is about the book “Antifragile” which is written by Nassim Nicholas Taleb. It costs me nearly a month to finish this book, you can say my reading speed is slow, and I have forgot content of previous chapters. Following comments on this book could involve my misunderstanding of this book. If there is anything wrong you may send me an e-mail as a way of proofreading.&lt;/p&gt;
+
+&lt;p&gt;This book major idea is about risk management and decision making. It expounds the concept of fragile and antifragile as a way to make better life decision. Object with fragility afraid of variables, instability, changes; favour stability and sustained environment. On the contrary, antifragile object will become stronger and powerful in terms of facing flunctuations and instability. Robust is a middle state between fragile and antifragile. It is stronger than fragile but eventuall will break when persistent change happens.  According to the example story of this book may help you to have further understanding of these concepts. Local restaurants are fragile; they are contending with each other which makes local restaurant antifragile. Human being is fragile; gens carried by human is antifragile. Now, here is my understanding of what is fragile and antifragile. Fragile refers to obejct that has fixed elements in it; the higher importance of these elements have, the higher level of fragility object possesses. Antifragile object holds features that constantly evolving as a response to external envrionment.&lt;/p&gt;
+
+&lt;p&gt;Optionality,  barbell effects and path dependency are three important concepts introduced to explain why antifragile helps to make better decision. Tabel states that risk taking are not gambling, and optionality are not lottery tickets. Optionality, in the eye of fragilist it is dangerous, exhibits the very notion of evolving and allows nature the chose the best solution. For individuals, we may apply trail and error strategy to make decision. Process of decison making is dynamic, wisdom lies in action. Therefore, enlarge optionality helps people to test ideas and decisions in possible ways. Barbell effects means asymmetry, situation with unbalanced upside and downside.&lt;/p&gt;
+
+&lt;p&gt;In the end of this book author offers way to make better decision. The main idea is via subtraction and negative.&lt;/p&gt;
+
+&lt;p&gt;Ok, to be continue….&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 02 Jul 2015 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/blog/2015/07/02/Long-Time-No-See.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/07/02/Long-Time-No-See.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>About Kant</title>
+        <description>&lt;p&gt;It costs me several months to read “This Critique of Pure Reason” and I do not finish it. The content of this book is quite notorious difficult to understand. All the concepts introduced by Kant are quite obsolete from real world experience. It may a bit awkward to say that you have to imagine the meaning of a term and set a temporary understanding of it. After dozens of elaboration of this term across the book with various context, you may have a better understanding of it. This situation applies to most terms invented by Kant. As a result, people may have vast amount of interpretation about Kant and his philosophies. It appears meaningless to have a discussion about subject concepts without mapped real world  object, since it is difficult to convincing people without solid evidence. Even with solid evidence, people can still argue its validity by some concepts relate to it. So, what we suppose to do to deal with this issue? Shut up, and do your work. Like Linux Torvalds said “Talk is cheap, show me the code”.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 May 2015 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/blog/2015/05/19/About-Kant.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/05/19/About-Kant.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>English Writing Exercise - 01</title>
+        <description>&lt;p&gt;Apologize first for my reckless and unproved words here. As a human being, with a proper function brain, I do not have enough energy to verity each piece of information that I received. The only thing I can do is to make less judgment and listen more. Acting correspond to this rule makes me more like a listener than producer. This communication habit has undermined my English writing skill. OK, it can be argued that there is a contradiction between be a listener and be a skilled writer. I just mean it is urgent for me to improve my English writing skills.&lt;/p&gt;
+
+&lt;p&gt;There are so many motivations for me to improve my writing skills. The major one is my wife. When I was an adolescent, most of my behavior was largely affected by frontal lobes, in short I was an assXXX. Therefore my mid-school performance was not that outstanding. As a result, my understanding of English grammar was nearly blank. I had no clear concept of verb, noun, article, adjecent, adverb and so on. Due to the immature understanding of English grammar, I faced big trouble of English writing. As you may now recognize, sentences that constructed by me may have very loose semantic meanings and relations. I do not know how to compose a clear and structured essay. Oh, about my wife, because she makes fun of my grammar mistake, so I decide to improve my English grammar both oral and written.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 May 2015 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/blog/2015/05/15/English-Writing.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/05/15/English-Writing.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -41,11 +85,33 @@
     
       <item>
         <title>Mark down what to do</title>
+        <description>&lt;p&gt;Ok, it spends me several hours to build this static blog and hope I will use it in following years. Two things to do in following months. First, finish the “Let over lambda”. Second use Common Lisp to re-develop LLVM. First target I may have a little clue how to finsh it. Second one? em.. hope I can hold my promise and I will create a git repository to trace the process.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 May 2015 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/blog/2015/05/09/what_to_do+%28Neo%27s+conflicted+copy+2015-05-27%29.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/05/09/what_to_do+%28Neo%27s+conflicted+copy+2015-05-27%29.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mark down what to do</title>
         <description>&lt;p&gt;Ok, it costs me several hours to build this static blog and hope I will use it in following years. Two things to do in following months. First, finish the “Let over lambda”. Second use Common Lisp to re-develop LLVM. First target I may have a little clue how to finsh it. Second one? em.. hope I can hold my promise and I will create a git repository to trace the process.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 May 2015 00:00:00 +0800</pubDate>
         <link>http://yourdomain.com/blog/2015/05/09/what_to_do.html</link>
         <guid isPermaLink="true">http://yourdomain.com/blog/2015/05/09/what_to_do.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>hello, world</title>
+        <description>&lt;p&gt;hello world!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 May 2015 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/blog/2015/05/09/hello+%28Neo%27s+conflicted+copy+2015-05-27%29.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/2015/05/09/hello+%28Neo%27s+conflicted+copy+2015-05-27%29.html</guid>
         
         
       </item>
