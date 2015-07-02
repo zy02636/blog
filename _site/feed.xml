@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YouCanYouUp</title>
-    <description>Blog site of Neo Shen</description>
+    <description>Blog site of Mr Ke Shen</description>
     <link>http://yourdomain.com/blog/</link>
     <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Jul 2015 14:19:24 +0800</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2015 14:19:24 +0800</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2015 14:29:45 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2015 14:29:45 +0800</lastBuildDate>
     <generator>Jekyll v1.4.2</generator>
     
       <item>
