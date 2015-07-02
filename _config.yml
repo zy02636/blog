@@ -1,11 +1,12 @@
 # Site settings
+name: Greetings from Mr Ke Shen
 title: YouCanYouUp
 email: mr.ke.shen@gmail.com
-description: Blog site of Neo Shen
+description: Blog site of Mr Ke Shen
 baseurl: /blog
 encoding: utf-8
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: zy02636
+twitter_username: MrKeShen
 github_username:  zy02636
 
 # Build settings
