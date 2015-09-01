@@ -6,10 +6,15 @@ title: I start to learn Object-c.
 Hello, guys, I missed you so much. It has been two months since my last post. In July, our team had planned to deliver a new version of our app which turns out to be totally off the schedule. It looks like our dear developer has occupied by various unknown affairs to hold them back and it takes forever for them to fix left few bugs. I may have to wait for next bug fixed beta_infinite version to run regression test for nth time.
 
 I started to learn Object-c two weeks ago which is a quite interesting experience. As an inferior unemployed Java programmer, I am quite used to traditional "dot" way to access method and property. Object-C follows the tradition of Small Talk which defined the calling of a method as passing message to an object. For instance, in Java you declare a class and make an instance:
+  	     	  {% highlight objective-c %}
   	     	  HelloClass helloClass = new HelloClass();
 		  helloClass.callMethod(arg1, arg2);
 		  helloClass.name;
-For most C family programming language, this a orthodox way of calling method and accessing property. In Object-C, things turn out to be much funnier and weird.
-     	   	  HelloClass \*helloClass = [[HelloClass alloc] init];
+		  {% endhighlight %}
+For most C family programming languages, this an orthodox way of calling method and accessing property. In Object-C, things turn out to be much funnier and weird.
+    	   	  {% highlight objective-c %}
+     	   	  HelloClass *helloClass = [[HelloClass alloc] init];
+		  [helloClass callMethod:arg1 aliasOfArgs:arg2]
   		  helloClass.name;
+		  {% endhighlight %}
 As we can see, the way of accessing property is the same. Nevertheless, calling function can be quite confusion because of the alias of input arguments. First argument of Object-C method does not require an alias, but following arguments has to be defined with alias. I do not know why the designer of Object-C designs method in this manner, maybe he get some hints from God that programmer should be sermonized by his arrogance towards php.
