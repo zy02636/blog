@@ -5,15 +5,15 @@
     <description>Blog site of Mr Ke Shen</description>
     <link>http://yourdomain.com/blog/</link>
     <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Feb 2017 22:19:35 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Feb 2017 22:19:35 +0800</lastBuildDate>
+    <pubDate>Tue, 28 Feb 2017 22:34:40 +0800</pubDate>
+    <lastBuildDate>Tue, 28 Feb 2017 22:34:40 +0800</lastBuildDate>
     <generator>Jekyll v3.4.0</generator>
     
       <item>
         <title>About Change and Automation</title>
-        <description>&lt;p&gt;Change is a common phenomenon in our daily life. Most people do not like change too much, because it breaks people’s comfortable zone. In the first three years during my career time, change seems never be a serious issue to me. During that time I was young, vigorous and energetic. After four years of being software test engineer, career anxiety rises. The major reason is the difficulty of involving solid test skills and technologies with test project.&lt;/p&gt;
+        <description>&lt;p&gt;Changing is not welcomed by most people, because its potentail damage to people’s comfortable zone. In the early years of my career, changing seems never be a serious issue for me. During that time I was young, vigorous, energetic and full of potentials and possibilities. After four years of being software test engineer, career anxiety rises. The major reason is the difficulty of practicing test techinques in real world test project.&lt;/p&gt;
 
-&lt;p&gt;In the industry of mobile application test in China, STE spends most time in requirement analysis, test case design, test case review, test case execution, bug tracing and regression test. For any people graduated from any discipline, these steps can be well mastered in two or three years, maybe more time is required if test project requires very specific professional knowledge, such as financial software. If a STE requires further career development, he has to choose to be a test manager or test specialist.&lt;/p&gt;
+&lt;p&gt;Mobile application test engineers spend most of their time in requirement analysis, test case design, test case review, test case execution, bug trace. For any people graduated from any discipline, these steps can be well mastered in only two or three years, maybe more time is required if test project requires very specific professional knowledge, such as financial software. If a STE requires further career development, he has to choose to be a test manager or test specialist.&lt;/p&gt;
 
 &lt;p&gt;The career path to be a test specialist is more difficult than be a test manager. The core target for test specialist is using test code to examine   the behaviour of software in various ways and levels, such as function test, unit test, UI test, performance test which includes batter usages, network traffic, FPS, UI render time and so on. Most test skills seem straight forward at first glance, but many engineer problems eventually rises while implementing them. For instance, UI automation is a very common test technique which is involved in the process of automation and it needs to face the challenge comes from constant UI changing. Cost of maintaining UI automation test codes of mobile application could be enormous, and outcome can be very limited comparing to its cost. Perhaps the goal of UI automation is never ensuring function validity of each UI page, but only preventing vital defect before the releasing of new version software.&lt;/p&gt;
 
